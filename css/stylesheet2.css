@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(../images/3d-rendering-cartoon-house.jpg);
+    width: fit-content;
+    height: 100vh;
+}
+div{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(7, 7, 7);
+    margin-left:400px ;
+    margin-top: 160px;
+    border-radius: 40px;
+
+}
+form{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+button{
+    background-color: black;
+    margin-left: 50px;
+    width: 70px;
+    height: 40px;
+    border-radius: 40px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: azure;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+.w{
+    margin-top: 1px;
+}

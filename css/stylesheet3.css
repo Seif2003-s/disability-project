@@ -1,0 +1,12 @@
+body{
+    background-image: url(../images/10802151_4529164.jpg);
+    background-position: center;
+    height: 100vh;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    margin-top: 300px;
+    font-size: 40px;
+    color: rgb(228, 66, 147);
+}
